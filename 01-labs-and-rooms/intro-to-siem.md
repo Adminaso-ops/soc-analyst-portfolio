@@ -1,4 +1,4 @@
-# Day 1: Intro to SIEM & Alert Triage
+# Intro to SIEM & Alert Triage
 
 **Date:** September 20, 2026
 **Platform:** TryHackMe
