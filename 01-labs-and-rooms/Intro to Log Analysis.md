@@ -1,4 +1,4 @@
-# Day 2: Intro to Log Analysis
+# Intro to Log Analysis
 
 **Date:** September 24, 2026
 **Platform:** TryHackMe
