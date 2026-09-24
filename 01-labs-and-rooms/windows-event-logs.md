@@ -1,6 +1,6 @@
 # Endpoint Visibility & Windows Event Logs
 
-**Date:** September 26, 2026
+**Date:** September 25, 2026
 **Platform:** TryHackMe
 **Room:** Windows Event Logs
 
